@@ -1,4 +1,4 @@
-# SnakePY
+# HthurSnakePY
 A python-driven faithful snake recreation
 
 This is the first project I have created.
